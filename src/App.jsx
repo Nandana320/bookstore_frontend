@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom"
 import Home from "./users/pages/Home"
-import PagenotFound from "./pages/PagenotFound"
+import PagenotFound from "./pages/PageNotFound"
 import Auth from "./pages/Auth"
 import Preloader from "./components/Preloader"
 import { Profiler, useEffect, useState } from "react"
